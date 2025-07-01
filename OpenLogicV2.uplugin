@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.5.3",
+	"FriendlyName": "Open Logic",
+	"Description": "Create visual scripting graphs with customizable nodes in a highly customizable graph editor usable in-editor and in shipped games.",
+	"Category": "Marketplace",
+	"CreatedBy": "NegativeName",
+	"CreatedByURL": "",
+	"DocsURL": "https://bit.ly/openlogiceditor-documentation",
+	"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/open-logic-editor",
+	"SupportURL": "https://discord.gg/zzwkK2FEuE",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "OpenLogicV2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "OpenLogicNodes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "OpenLogicEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "StructUtils",
+			"Enabled": true
+		}
+	]
+}
