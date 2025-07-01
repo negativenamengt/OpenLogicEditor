@@ -1,6 +1,6 @@
 # Plugin
 
-**Open Logic** is a plugin designed for creating custom visual scripting graphs with custom nodes.
+**Open Logic** is a Unreal Engine plugin designed for creating custom visual scripting graphs with custom nodes.
 It seamlessly integrates with the editor and supports shipping builds for game integration.
 
 # Open Source
