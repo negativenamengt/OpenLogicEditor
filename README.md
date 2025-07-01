@@ -11,5 +11,5 @@ I’m incredibly grateful to everyone who supported me during this journey and p
 This was my first plugin and my first real experience with C++, so there are some questionable design decisions and a few unfinished features (e.g., the Wildcard type). Still, the plugin mostly works and can hopefully serve as a useful reference or starting point for others.
 
 # Links
-[Documentation](https://bit.ly/openlogiceditor-documentation)
+[Documentation](https://bit.ly/openlogiceditor-documentation) <br>
 [Demo Project](https://github.com/NegativeNameNGT/OpenLogicDemoProject)
