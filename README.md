@@ -12,3 +12,4 @@ This was my first plugin and my first real experience with C++, so there are som
 
 # Links
 [Documentation](https://bit.ly/openlogiceditor-documentation)
+[Demo Project](https://github.com/NegativeNameNGT/OpenLogicDemoProject)
